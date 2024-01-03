@@ -1,5 +1,7 @@
 # Admin Interface for Open Balena
 
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 Open source admin interface for [openbalena](https://github.com/balena-io/open-balena), a platform to deploy and manage connected devices.
 
 ## Features
